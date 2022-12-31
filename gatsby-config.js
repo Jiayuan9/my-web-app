@@ -12,7 +12,7 @@ module.exports = {
     title: `Jiayuan's Web`,
     description: `Jiayuan's Web`,
     author: `@kyo`,
-    siteUrl: `helloqiu9@gmail.com`,
+    siteUrl: `https://github.com/Jiayuan9/my-web-app`
   },
   plugins: [
     `gatsby-plugin-image`,
